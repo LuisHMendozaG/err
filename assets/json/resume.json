@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "name": "Mendoza Garcilazo Luis Humberto",
+    "label": "Scientist",
+    "image": "",
+    "email": "lmendoza@cicese.mx",
+    "phone": "(646)175-05-00 ext: 26537",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "Profesor de asignatura en CICESE  en el programa de Posgrado de Ciencias de la Tierra.",
+    "location": {
+      "address": "Carr. Tijuana-Ensenada 3918",
+      "postalCode": "Zona Playitas, 22860 ",
+      "city": "Ensenada",
+      "countryCode": "mx",
+      "region": "Baja California"
+    },
+    "profiles": [
+      {
+        "network": " ",
+        "username": " ",
+        "url": " "
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Centro de Investigación Científica y de Educación Superior de Ensenada. ",
+      "position": "Profesor de asignatura en CICESE  en el programa de Posgrado de  Ciencias de la Tierra.",
+      "url": "https://www.cicese.edu.mx/investigacion/division_de_ciencias_de_la_tierra/1",
+      "startDate": "1977",
+      "endDate": "A la fecha",
+      "summary": " ",
+      "highlights": ["Manejo del Riesgo Sismico"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": " ",
+      "location": " ",
+      "position": " ",
+      "url": " ",
+      "startDate": " ",
+      "endDate": " ",
+      "summary": " ",
+      "highlights": [" "]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centro de Investigación Científica y de Educación Superior de Ensenada",
+      "location": "Ensenada, Baca California",
+      "url": "https://www.cicese.edu.mx/",
+      "area": "Sismología",
+      "studyType": "Master",
+      "startDate": "1975",
+      "endDate": "1977",
+      "score": "10",
+      "courses": ["Sismología"]
+    }
+  ],
+  "awards": [
+    {
+      "title": " ",
+      "date": " ",
+      "awarder": " ",
+      "url": " ",
+      "summary": " "
+    }
+  ],
+  "certificates": [
+    {
+      "name": " ",
+      "date": " ",
+      "issuer": " ",
+      "url": " ",
+      "icon": " "
+    },
+    {
+      "name": " ",
+      "date": " ",
+      "issuer": " ",
+      "url": " ",
+      "icon": " "
+    },
+    {
+      "name": " ",
+      "date": " ",
+      "issuer": " ",
+      "url": " ",
+      "icon": " "
+    },
+    {
+      "name": " ",
+      "date": " ",
+      "issuer": " ",
+      "url": " ",
+      "icon": " "
+    },
+    {
+      "name": " ",
+      "date": " ",
+      "issuer": " ",
+      "url": " ",
+      "icon": " "
+    },
+    {
+      "name": " ",
+      "date": " ",
+      "issuer": " ",
+      "url": " ",
+      "icon": " "
+    }
+  ],
+  "publications": [
+    {
+      "name": " ",
+      "publisher": " ",
+      "releaseDate": " ",
+      "url": " ",
+      "summary": " "
+    },
+    {
+      "name": " ",
+      "publisher": " ",
+      "releaseDate": " ",
+      "url": " ",
+      "summary": " "
+    },
+    {
+      "name": " ",
+      "publisher": " ",
+      "releaseDate": " ",
+      "url": " ",
+      "summary": " "
+    }
+  ],
+  "skills": [
+    {
+      "name": " ",
+      "level": " ",
+      "icon": " ",
+      "keywords": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": " ",
+      "icon": " ",
+      "keywords": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": " ",
+      "icon": " ",
+      "reference": " "
+    },
+    {
+      "name": " ",
+      "icon": " ",
+      "reference": " "
+    }
+  ],
+  "projects": [
+    {
+      "name": " ",
+      "summary": " ",
+      "highlights": [" "],
+      "startDate": " ",
+      "endDate": " ",
+      "url": " "
+    }
+  ]
+}
